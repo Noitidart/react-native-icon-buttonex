@@ -4,7 +4,7 @@
 Similar to react-native-buttonex but with icons
 
 
-* Motivation:
+### Motivation
 
 * iOS 7 design apparently
   * http://iosguides.net/wp-content/uploads/2013/08/Settings-Menu-iOS-7-iCloud.jpg
